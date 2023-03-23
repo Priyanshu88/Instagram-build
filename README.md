@@ -2,7 +2,7 @@
 
   <img src="https://user-images.githubusercontent.com/99184393/195982647-048bc778-f82d-427c-b28b-78b1156d158d.png" alt="logo" width="205" height="auto" />
   
-  <h1>Instagram Clone with React.JS</h1>
+  <h1>Instagram like website with React.JS</h1>
   
   <p>
 Instagram with REACT.JS! (Next.js, NextAuth.js v4.17.0, Tailwind CSS, Firebase v9, Image Uploading, Recoil, Google Authentication.)

@@ -54,9 +54,11 @@ Instagram with REACT.JS! (Next.js, NextAuth.js v4.17.0, Tailwind CSS, Firebase v
 
 ### :camera: Screenshots
 
-<div align="center">
-<a href="hhttps://instagram-build-gamma.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
-</div>
+<!-- <div align="center"> -->
+<!-- <a href="hhttps://instagram-build-gamma.vercel.app/" target="_blank"><img  src='' alt='image'/></a> -->
+<!--   https://user-images.githubusercontent.com/86107841/227702718-6b2f26d4-aa3d-4ae6-9f56-ec09b77191bd.mp4 -->
+
+<!-- </div> -->
 
 https://user-images.githubusercontent.com/86107841/227702718-6b2f26d4-aa3d-4ae6-9f56-ec09b77191bd.mp4
 
@@ -261,7 +263,7 @@ Project Link: [https://github.com/Priyanshu88/Instagram-build.git](https://githu
 <hr />
 
 <div align="center">
-<a href="https://instagram-build-gamma.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
+<a href="https://instagram-build-gamma.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227702796-ecd91832-632b-4eb3-a8b2-0c93f06b326d.png' alt='image'/></a>
 </div>
 
 <br />

@@ -58,6 +58,10 @@ Instagram with REACT.JS! (Next.js, NextAuth.js v4.17.0, Tailwind CSS, Firebase v
 <a href="hhttps://instagram-build-gamma.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
 </div>
 
+https://user-images.githubusercontent.com/86107841/227702718-6b2f26d4-aa3d-4ae6-9f56-ec09b77191bd.mp4
+
+
+
 ## <a href="https://instagram-build-gamma.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)

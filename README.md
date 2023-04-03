@@ -139,6 +139,9 @@ To run this project, you will need to add the following environment variables to
 
 ### :gear: Installation
 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
+
 Install my-project with npm
 
 ```
@@ -154,6 +157,8 @@ Install dependencies
 ### :test_tube: Install Tailwind CSS with Next.js
 
 #### Install Tailwind CSS
+
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Install tailwindcss and its peer dependencies via npm, and then run the init command to generate both `tailwind.config.js` and `postcss.config.js`.
 
@@ -200,6 +205,8 @@ Install dependencies
 <!-- Run Locally -->
 
 ### :running: Run Locally
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 Clone the project
 
@@ -250,11 +257,15 @@ To deploy this project run
 
 ##### Deploy on Vercel
 
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## :handshake: Contact
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 

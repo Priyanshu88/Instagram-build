@@ -19,7 +19,7 @@ Instagram with REACT.JS! (Next.js, NextAuth.js v4.17.0, Tailwind CSS, Firebase v
 ![](https://img.shields.io/github/last-commit/Priyanshu88/Instagram-build)
 
 <h4>
-    <a href="https://projects-seven-peach.vercel.app">View Demo</a>
+    <a href="https://instagram-build-gamma.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/Priyanshu88/Instagram-build/blob/master/README.md">Documentation</a>
   <span> · </span>

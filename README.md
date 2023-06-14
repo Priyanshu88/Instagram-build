@@ -111,7 +111,7 @@ https://user-images.githubusercontent.com/86107841/227702718-6b2f26d4-aa3d-4ae6-
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/204170976-0e5c6e2a-2b41-483d-adbd-d5d1e40b8d15.png" alt="" width="30" height="30" /></a>
         </td>
                                 <td>
-<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/instagram.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="" width="30" height="30" /></a>
         </td>
     </tr>
 </table>
